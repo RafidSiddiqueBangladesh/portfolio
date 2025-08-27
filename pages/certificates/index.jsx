@@ -2,12 +2,10 @@ import { motion } from "framer-motion";
 
 import Bulb from "../../components/Bulb";
 import Circles from "../../components/Circles";
-import ServiceSlider from "../../components/ServiceSlider";
+import CertificatesSlider from "../../components/CertificatesSlider"; // new slider for certificates
 import { fadeIn } from "../../variants";
 
-export const serviceData = [];
-
-const Services = () => {
+const Certificates = () => {
   return (
     <div className="h-full bg-primary/30 py-36 flex items-center">
       <Circles />
@@ -20,9 +18,9 @@ const Services = () => {
               initial="hidden"
               animate="show"
               exit="hidden"
-              className="h2 xl:mt-8"
+              className="h2 xl:mt-12"
             >
-              My services <span className="text-accent">.</span>
+              My <span className="text-accent">Certificates</span>
             </motion.h2>
             <motion.p
               variants={fadeIn("up", 0.4)}
@@ -31,7 +29,8 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Full stack web(MERN) ,app developmet(flutter), marketing ads, video editing ,design and development
+              A collection of my professional certificates and achievements,
+              showcasing my learning journey and expertise in different fields.
             </motion.p>
           </div>
 
@@ -43,7 +42,7 @@ const Services = () => {
             exit="hidden"
             className="w-full xl:max-w-[65%]"
           >
-            <ServiceSlider />
+            <CertificatesSlider />
           </motion.div>
         </div>
       </div>
@@ -52,4 +51,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Certificates;

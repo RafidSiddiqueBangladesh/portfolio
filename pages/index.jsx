@@ -30,12 +30,12 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
+            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 "
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Innovative educator, web developer, app developer,<span className="text-amber-500">Data scientist,continuous  learner in Machine learning,Deep learning,NLP at Coursera and youtube,and startup enthusiast with a passion for technology-driven 
+learning solutions</span>. Proven expertise <span className="text-amber-500">in frontend web development, graphics design, SEO, video 
+editing, and telemarketing,app developoment</span>. Adept at mentoring students in problem-solving and ethical hacking, 
+optimizing digital brand positioning, and deploying tech solutions for education. 
           </motion.p>
 
           {/* btn */}

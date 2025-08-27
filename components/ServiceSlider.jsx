@@ -17,27 +17,27 @@ const serviceData = [
   {
     Icon: RxCrop,
     title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Telemarking ,google facebook  and social media marketing ads to make more sales and make valuation of your startup or business",
   },
   {
     Icon: RxPencil2,
     title: "Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Design logo pic and product pic and sourcing and making it industry standard and modern look",
   },
   {
     Icon: RxDesktop,
     title: "Development",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "MERN stack website and Flutter app development,wordpress and shopify website development and brading and uI UX deesign",
   },
   {
     Icon: RxReader,
     title: "Copywriting",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Writing and making more backlinek and seo friendly to graph organic customers and make more sales",
   },
   {
     Icon: RxRocket,
     title: "SEO",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Ranking website on top of your competitors and making more organic sells and traffic and leads to your business",
   },
 ];
 

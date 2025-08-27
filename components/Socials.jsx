@@ -10,19 +10,15 @@ import {
 } from "react-icons/ri";
 
 export const socialData = [
-  {
-    name: "YouTube",
-    link: "https://youtube.com",
-    Icon: RiYoutubeLine,
-  },
+  
   {
     name: "Instagram",
-    link: "https://instagram.com",
+    link: "https://instagram.com/rafidsiddique",
     Icon: RiInstagramLine,
   },
   {
     name: "Facebook",
-    link: "https://facebook.com",
+    link: "https://www.facebook.com/rafidsisddique",
     Icon: RiFacebookLine,
   },
   {
@@ -30,14 +26,10 @@ export const socialData = [
     link: "https://dribbble.com",
     Icon: RiDribbbleLine,
   },
-  {
-    name: "Pinterest",
-    link: "https://pinterest.com",
-    Icon: RiPinterestLine,
-  },
+  
   {
     name: "Github",
-    link: "https://github.com/sanidhyy/modern-portfolio",
+    link: "https://github.com/RafidSiddiqueBangladesh",
     Icon: RiGithubLine,
   },
 ];
