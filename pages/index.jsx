@@ -18,7 +18,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="h1"
+             className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight"
           >
             Transforming Ideas <br /> Into{" "}
             <span className="text-accent">Digital Reality</span>
@@ -30,7 +30,8 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 "
+            className="text-xs sm:text-sm md:text-base lg:text-lg max-w-sm xl:max-w-xl mx-auto xl:mx-0 mt-6 mb-12 xl:mb-16"
+
           >
             Innovative educator, web developer, app developer,<span className="text-amber-500">Data scientist,continuous  learner in Machine learning,Deep learning,NLP at Coursera and youtube,and startup enthusiast with a passion for technology-driven 
 learning solutions</span>. Proven expertise <span className="text-amber-500">in frontend web development, graphics design, SEO, video 
