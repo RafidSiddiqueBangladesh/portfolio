@@ -14,23 +14,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/work1.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/reactCRUDapp",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "/work2.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/mediai",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "/work4.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/express-frontend",
         },
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "/portfolio.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/portfolio",
         },
       ],
     },
@@ -38,23 +38,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "/work4.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/express-frontend",
         },
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/work3.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/express-frontend",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "/work2.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/mediai",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "/work1.png",
+          link: "https://github.com/RafidSiddiqueBangladesh/reactCRUDapp",
         },
       ],
     },

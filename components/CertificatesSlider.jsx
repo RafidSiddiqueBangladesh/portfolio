@@ -14,23 +14,23 @@ const certificatesSlide = {
       images: [
         {
           title: "title",
-          path: "/thumb1.jpg",
+          path: "/cou.png",
           link: "https://www.coursera.org/account/accomplishments/certificate/IL0HCJJUBT3V",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: ,
+          path: "/web.png",
+          link: "https://10minuteschool.com/en/certificate/624d5be672f9f/?srsltid=AfmBOooTLcJJlScqpm0ZmX1RDL7iShYoWraFzn61Oc_BqAHmG2cokeFo",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "https://www.coursera.org/account/accomplishments/verify/TCN1KTBAVX3O",
+          path: "/cou3.png",
+          link:"https://www.coursera.org/account/accomplishments/verify/7X8X1F2QG6QI",
         },
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "/ml.png",
+          link: "https://www.kaggle.com/learn/certification/rafidsiddique/intro-to-machine-learning",
         },
       ],
     },
@@ -38,23 +38,23 @@ const certificatesSlide = {
       images: [
         {
           title: "title",
-          path: "/thumb4.jpg",
+          path: "/cou1.png",
           link: "https://www.coursera.org/account/accomplishments/certificate/7X8X1F2QG6QI",
         },
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/freelan.png",
+          link: "https://10minuteschool.com/skills/instructors/joyeta-banerjee/?srsltid=AfmBOopZb7pj0rO2iOIZj2mWEczupaQlSMGKLooi4kgiNY9o0UYJ1xcX",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "/ml2.png",
+          link: "https://www.kaggle.com/learn/certification/rafidsiddique/intermediate-machine-learning",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "/gra.png",
+          link: "https://ghoorilearning.com/",
         },
       ],
     },
@@ -84,8 +84,8 @@ const CertificatesSlider = () => {
                   <Image
                     src={image.path}
                     alt={image.title}
-                    width={500}
-                    height={300}
+                    width={300}
+                    height={200}
                   />
 
                   {/* overlay gradient */}
